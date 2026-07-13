@@ -8,5 +8,5 @@
 
 
 ```python
-print
+print asma,alia
 ```
